@@ -10,4 +10,6 @@ Python scripts to take tables from the [Blue Riband wikipedia page](https://en.w
 
 ## Example data visualisation
 
+Flourish [interactive version](https://flo.uri.sh/visualisation/24814498/embed?auto=1).
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/24814498"><noscript><img src="https://public.flourish.studio/visualisation/24814498/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
