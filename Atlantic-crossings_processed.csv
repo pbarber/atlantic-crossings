@@ -1,0 +1,118 @@
+Ship,Flag,Year,Dates,Line,From,To,Distance,"Days, hours, minutes",Speed,Direction,Knots,Start day,Start month,Start year,Start date,Minutes,Days
+Sirius,Picture,1838,4–22 April,British & American,Queenstown,Sandy Hook,"3,583 nautical miles (6,636 km)","18 d, 14 h, 22 m",8.03 knots (14.87 km/h),Westbound,8.03,4,April,1838,1838-04-04,26782,18.59861111111111
+Great Western,Picture,1838,8–23 April,GW,Avonmouth,New York,"3,220 nautical miles (5,960 km)","15 d, 12 h, 0 m",8.66 knots (16.04 km/h),Westbound,8.66,8,April,1838,1838-04-08,22320,15.5
+Great Western,Picture,1838,2–17 June,GW,Avonmouth,New York,"3,140 nautical miles (5,820 km)","14 d, 16 h, 0 m",8.92 knots (16.52 km/h),Westbound,8.92,2,June,1838,1838-06-02,21120,14.666666666666666
+Great Western,Picture,1839,18–31 May,GW,Avonmouth,New York,"3,086 nautical miles (5,715 km)","13 d, 12 h, 0 m",9.52 knots (17.63 km/h),Westbound,9.52,18,May,1839,1839-05-18,19440,13.5
+Columbia,Picture,1841,4–15 June,Cunard,Liverpool,Halifax,"2,534 nautical miles (4,693 km)","10 d, 19 h, 0 m",9.78 knots (18.11 km/h),Westbound,9.78,4,June,1841,1841-06-04,15540,10.791666666666666
+Great Western,Picture,1843,29 April – 11 May,GW,Liverpool,New York,"3,068 nautical miles (5,682 km)","12 d, 18 h, 0 m",10.03 knots (18.58 km/h),Westbound,10.03,29,April,1843,1843-04-29,18360,12.75
+Cambria,Picture,1845,19–29 July,Cunard,Liverpool,Halifax,"2,534 nautical miles (4,693 km)","9 d, 20 h, 30 m",10.71 knots (19.83 km/h),Westbound,10.71,19,July,1845,1845-07-19,14190,9.854166666666666
+America,Picture,1848,3–12 June,Cunard,Liverpool,Halifax,"2,534 nautical miles (4,693 km)","9 d, 0 h, 16 m",11.71 knots (21.69 km/h),Westbound,11.71,3,June,1848,1848-06-03,12976,9.011111111111111
+Europa,Picture,1848,14–23 October,Cunard,Liverpool,Halifax,"2,534 nautical miles (4,693 km)","8 d, 23 h, 0 m",11.79 knots (21.84 km/h),Westbound,11.79,14,October,1848,1848-10-14,12900,8.958333333333334
+Asia,Picture,1850,18–27 May,Cunard,Liverpool,Halifax,"2,534 nautical miles (4,693 km)","8 d, 14 h, 50 m",12.25 knots (22.69 km/h),Westbound,12.25,18,May,1850,1850-05-18,12410,8.618055555555555
+Pacific,,1850,11–21 September,Collins,Liverpool,New York,"3,050 nautical miles (5,650 km)","10 d, 4 h, 45 m",12.46 knots (23.08 km/h),Westbound,12.46,11,September,1850,1850-09-11,14685,10.197916666666666
+Baltic,,1851,6–16 August,Collins,Liverpool,New York,"3,039 nautical miles (5,628 km)","9 d, 19 h, 26 m",12.91 knots (23.91 km/h),Westbound,12.91,6,August,1851,1851-08-06,14126,9.809722222222222
+Baltic,,1854,28 June – 7 July,Collins,Liverpool,New York,"3,037 nautical miles (5,625 km)","9 d, 16 h, 52 m",13.04 knots (24.15 km/h),Westbound,13.04,28,June,1854,1854-06-28,13972,9.702777777777778
+Persia,Picture,1856,19–29 April,Cunard,Liverpool,Sandy Hook,"3,045 nautical miles (5,639 km)","9 d, 16 h, 16 m",13.11 knots (24.28 km/h),Westbound,13.11,19,April,1856,1856-04-19,13936,9.677777777777777
+Scotia,Picture,1863,19–27 July,Cunard,Queenstown,New York,"2,820 nautical miles (5,220 km)","8 d, 3 h, 0 m",14.46 knots (26.78 km/h),Westbound,14.46,19,July,1863,1863-07-19,11700,8.125
+Adriatic,Picture,1872,17–25 May,W.Star,Queenstown,Sandy Hook,"2,778 nautical miles (5,145 km)","7 d, 23 h, 17 m",14.53 knots (26.91 km/h),Westbound,14.53,17,May,1872,1872-05-17,11477,7.970138888888889
+Germanic,Picture,1875,30 July – 7 August,W.Star,Queenstown,Sandy Hook,"2,800 nautical miles (5,200 km)","7 d, 23 h, 7 m",14.65 knots (27.13 km/h),Westbound,14.65,30,July,1875,1875-07-30,11467,7.9631944444444445
+City of Berlin,Picture,1875,17–25 September,Inman,Queenstown,Sandy Bank,"2,829 nautical miles (5,239 km)","7 d, 18 h, 2 m",15.21 knots (28.17 km/h),Westbound,15.21,17,September,1875,1875-09-17,11162,7.751388888888889
+Britannic,Picture,1876,27 October – 4 November,W.Star,Queenstown,Sandy Hook,"2,795 nautical miles (5,176 km)","7 d, 13 h, 11 m",15.43 knots (28.58 km/h),Westbound,15.43,27,October,1876,1876-10-27,10871,7.549305555555556
+Germanic,Picture,1877,6–13 April,W.Star,Queenstown,Sandy Hook,"2,830 nautical miles (5,240 km)","7 d, 11 h, 37 m",15.76 knots (29.19 km/h),Westbound,15.76,6,April,1877,1877-04-06,10777,7.4840277777777775
+Alaska,Picture,1882,9–16 April,Guion,Queenstown,Sandy Hook,"2,802 nautical miles (5,189 km)","7 d, 6 h, 20 m",16.07 knots (29.76 km/h),Westbound,16.07,9,April,1882,1882-04-09,10460,7.263888888888889
+Alaska,Picture,1882,14–21 May,Guion,Queenstown,Sandy Hook,"2,871 nautical miles (5,317 km)","7 d, 4 h, 12 m",16.67 knots (30.87 km/h),Westbound,16.67,14,May,1882,1882-05-14,10332,7.175
+Alaska,Picture,1882,18–25 June,Guion,Queenstown,Sandy Hook,"2,886 nautical miles (5,345 km)","7 d, 1 h, 58 m",16.98 knots (31.45 km/h),Westbound,16.98,18,June,1882,1882-06-18,10198,7.081944444444445
+Alaska,Picture,1883,29 April – 6 May,Guion,Queenstown,Sandy Hook,"2,844 nautical miles (5,267 km)","6 d, 23 h, 48 m",17.05 knots (31.58 km/h),Westbound,17.05,29,April,1883,1883-04-29,10068,6.991666666666666
+Oregon,Picture,1884,13–19 April,Guion,Queenstown,Sandy Hook,"2,861 nautical miles (5,299 km)","6 d, 10 h, 10 m",18.56 knots (34.37 km/h),Westbound,18.56,13,April,1884,1884-04-13,9250,6.423611111111111
+Etruria,Picture,1885,16–22 August,Cunard,Queenstown,Sandy Hook,"2,801 nautical miles (5,187 km)","6 d, 5 h, 31 m",18.73 knots (34.69 km/h),Westbound,18.73,16,August,1885,1885-08-16,8971,6.229861111111111
+Umbria,Picture,1887,29 May – 4 June,Cunard,Queenstown,Sandy Hook,"2,848 nautical miles (5,274 km)","6 d, 4 h, 12 m",19.22 knots (35.60 km/h),Westbound,19.22,29,May,1887,1887-05-29,8892,6.175
+Etruria,Picture,1888,27 May – 2 June,Cunard,Queenstown,Sandy Hook,"2,854 nautical miles (5,286 km)","6 d, 1 h, 55 m",19.56 knots (36.23 km/h),Westbound,19.56,27,May,1888,1888-05-27,8755,6.079861111111111
+City of Paris,Picture,1889,2–8 May,Inman,Queenstown,Sandy Hook,"2,855 nautical miles (5,287 km)","5 d, 23 h, 7 m",19.95 knots (36.95 km/h),Westbound,19.95,2,May,1889,1889-05-02,8587,5.9631944444444445
+City of Paris,Picture,1889,22–28 August,Inman,Queenstown,Sandy Hook,"2,788 nautical miles (5,163 km)","5 d, 19 h, 18 m",20.01 knots (37.06 km/h),Westbound,20.01,22,August,1889,1889-08-22,8358,5.804166666666666
+Majestic,Picture,1891,30 July – 5 August,W.Star,Queenstown,Sandy Hook,"2,777 nautical miles (5,143 km)","5 d, 18 h, 8 m",20.10 knots (37.23 km/h),Westbound,20.1,30,July,1891,1891-07-30,8288,5.7555555555555555
+Teutonic,Picture,1891,13–19 August,W.Star,Queenstown,Sandy Hook,"2,778 nautical miles (5,145 km)","5 d, 16 h, 31 m",20.35 knots (37.69 km/h),Westbound,20.35,13,August,1891,1891-08-13,8191,5.688194444444444
+City of Paris,Picture,1892,20–27 July,Inman,Queenstown,Sandy Hook,"2,785 nautical miles (5,158 km)","5 d, 15 h, 58 m",20.48 knots (37.93 km/h),Westbound,20.48,20,July,1892,1892-07-20,8158,5.665277777777778
+City of Paris,Picture,1892,13–18 October,Inman,Queenstown,Sandy Hook,"2,782 nautical miles (5,152 km)","5 d, 14 h, 24 m",20.70 knots (38.34 km/h),Westbound,20.7,13,October,1892,1892-10-13,8064,5.6
+Campania,Picture,1893,18–23 June,Cunard,Queenstown,Sandy Hook,"2,864 nautical miles (5,304 km)","5 d, 15 h, 37 m",21.12 knots (39.11 km/h),Westbound,21.12,18,June,1893,1893-06-18,8137,5.6506944444444445
+Campania,Picture,1894,12–17 August,Cunard,Queenstown,Sandy Hook,"2,776 nautical miles (5,141 km)","5 d, 9 h, 29 m",21.44 knots (39.71 km/h),Westbound,21.44,12,August,1894,1894-08-12,7769,5.395138888888889
+Lucania,Picture,1894,26–31 August,Cunard,Queenstown,Sandy Hook,"2,787 nautical miles (5,162 km)","5 d, 8 h, 38 m",21.65 knots (40.10 km/h),Westbound,21.65,26,August,1894,1894-08-26,7718,5.3597222222222225
+Lucania,Picture,1894,23–28 September,Cunard,Queenstown,Sandy Hook,"2,782 nautical miles (5,152 km)","5 d, 7 h, 48 m",21.75 knots (40.28 km/h),Westbound,21.75,23,September,1894,1894-09-23,7668,5.325
+Lucania,Picture,1894,21–26 October,Cunard,Queenstown,Sandy Hook,"2,779 nautical miles (5,147 km)","5 d, 7 h, 23 m",21.81 knots (40.39 km/h),Westbound,21.81,21,October,1894,1894-10-21,7643,5.307638888888889
+Kaiser Wilhelm der Grosse,,1898,30 March – 3 April,NDL,The Needles,Sandy Hook,"3,120 nautical miles (5,780 km)","5 d, 20 h, 0 m",22.29 knots (41.28 km/h),Westbound,22.29,30,March,1898,1898-03-30,8400,5.833333333333333
+Deutschland,,1900,6–12 July,Hapag,Eddystone,Sandy Hook,"3,044 nautical miles (5,637 km)","5 d, 15 h, 46 m",22.42 knots (41.52 km/h),Westbound,22.42,6,July,1900,1900-07-06,8146,5.656944444444444
+Deutschland,,1900,26 August – 1 September,Hapag,Cherbourg,Sandy Hook,"3,050 nautical miles (5,650 km)","5 d, 12 h, 29 m",23.02 knots (42.63 km/h),Westbound,23.02,26,August,1900,1900-08-26,7949,5.520138888888889
+Deutschland,,1901,26 July – 1 August,Hapag,Cherbourg,Sandy Hook,"3,141 nautical miles (5,817 km)","5 d, 16 h, 12 m",23.06 knots (42.71 km/h),Westbound,23.06,26,July,1901,1901-07-26,8172,5.675
+Kronprinz Wilhelm,,1902,10–16 September,NDL,Cherbourg,Sandy Hook,"3,047 nautical miles (5,643 km)","5 d, 11 h, 57 m",23.09 knots (42.76 km/h),Westbound,23.09,10,September,1902,1902-09-10,7917,5.497916666666667
+Deutschland,,1903,2–8 September,Hapag,Cherbourg,Sandy Hook,"3,054 nautical miles (5,656 km)","5 d, 11 h, 54 m",23.15 knots (42.87 km/h),Westbound,23.15,2,September,1903,1903-09-02,7914,5.495833333333334
+Lusitania,Picture,1907,6–10 October,Cunard,Queenstown,Sandy Hook,"2,780 nautical miles (5,150 km)","4 d, 19 h, 52 m",23.99 knots (44.43 km/h),Westbound,23.99,6,October,1907,1907-10-06,6952,4.8277777777777775
+Lusitania,Picture,1908,17–21 May,Cunard,Queenstown,Sandy Hook,"2,889 nautical miles (5,350 km)","4 d, 20 h, 22 m",24.83 knots (45.99 km/h),Westbound,24.83,17,May,1908,1908-05-17,6982,4.848611111111111
+Lusitania,Picture,1908,5–10 July,Cunard,Queenstown,Sandy Hook,"2,891 nautical miles (5,354 km)","4 d, 19 h, 36 m",25.01 knots (46.32 km/h),Westbound,25.01,5,July,1908,1908-07-05,6936,4.816666666666666
+Lusitania,Picture,1909,8–12 August,Cunard,Queenstown,Ambrose Light,"2,890 nautical miles (5,350 km)","4 d, 16 h, 40 m",25.65 knots (47.50 km/h),Westbound,25.65,8,August,1909,1909-08-08,6760,4.694444444444445
+Mauretania,Picture,1909,26–30 September,Cunard,Queenstown,Ambrose Light,"2,784 nautical miles (5,156 km)","4 d, 10 h, 51 m",26.06 knots (48.26 km/h),Westbound,26.06,26,September,1909,1909-09-26,6411,4.452083333333333
+Bremen,,1929,17–22 July,NDL,Cherbourg,Ambrose Light,"3,164 nautical miles (5,860 km)","4 d, 17 h, 42 m",27.83 knots (51.54 km/h),Westbound,27.83,17,July,1929,1929-07-17,6822,4.7375
+Europa,,1930,20–25 March,NDL,Cherbourg,Ambrose Light,"3,157 nautical miles (5,847 km)","4 d, 17 h, 6 m",27.91 knots (51.69 km/h),Westbound,27.91,20,March,1930,1930-03-20,6786,4.7125
+Bremen,,1933,27 June – 2 July,NDL,Cherbourg,Ambrose Light,"3,149 nautical miles (5,832 km)","4 d, 16 h, 48 m",27.92 knots (51.71 km/h),Westbound,27.92,27,June,1933,1933-06-27,6768,4.7
+Rex,,1933,11–16 August,Italian,Gibraltar,Ambrose Light,"3,181 nautical miles (5,891 km)","4 d, 13 h, 58 m",28.92 knots (53.56 km/h),Westbound,28.92,11,August,1933,1933-08-11,6598,4.581944444444445
+Normandie,Picture,1935,30 May – 3 June,CGT,Bishop Rock,Ambrose Light,"2,971 nautical miles (5,502 km)","4 d, 3 h, 2 m",29.98 knots (55.52 km/h),Westbound,29.98,30,May,1935,1935-05-30,5942,4.126388888888889
+Queen Mary,Picture,1936,20–24 August,C-WS,Bishop Rock,Ambrose Light,"2,907 nautical miles (5,384 km)","4 d, 0 h, 27 m",30.14 knots (55.82 km/h),Westbound,30.14,20,August,1936,1936-08-20,5787,4.01875
+Normandie,Picture,1937,29 July – 2 August,CGT,Bishop Rock,Ambrose Light,"2,906 nautical miles (5,382 km)","3 d, 23 h, 2 m",30.58 knots (56.63 km/h),Westbound,30.58,29,July,1937,1937-07-29,5702,3.959722222222222
+Queen Mary,Picture,1938,4–8 August,C-WS,Bishop Rock,Ambrose Light,"2,907 nautical miles (5,384 km)","3 d, 21 h, 48 m",30.99 knots (57.39 km/h),Westbound,30.99,4,August,1938,1938-08-04,5628,3.908333333333333
+United States,Picture,1952,11–15 July,USL,Bishop Rock,Ambrose Light,"2,906 nautical miles (5,382 km)","3 d, 12 h, 12 m",34.51 knots (63.91 km/h),Westbound,34.51,11,July,1952,1952-07-11,5052,3.5083333333333333
+Sirius,Picture,1838,1–19 May,British & American,New York,Falmouth,"3,159 nautical miles (5,850 km)",15 d 0 h,7.31 knots (13.54 km/h),Eastbound,7.31,1,May,1838,1838-05-01,21600,15.0
+Great Western,Picture,1838,7–22 May,GW,New York,Avonmouth,"3,218 nautical miles (5,960 km)","14 d, 15 h, 59 m",9.14 knots (16.93 km/h),Eastbound,9.14,7,May,1838,1838-05-07,21119,14.665972222222223
+Great Western,Picture,1838,25 June – 8 July,GW,New York,Avonmouth,"3,099 nautical miles (5,739 km)","12 d, 16 h, 34 m",10.17 knots (18.83 km/h),Eastbound,10.17,25,June,1838,1838-06-25,18274,12.690277777777778
+Britannia,Picture,1841,4–14 August,Cunard,Halifax,Liverpool,"2,610 nautical miles (4,830 km)","9 d, 21 h, 44 m",10.98 knots (20.33 km/h),Eastbound,10.98,4,August,1841,1841-08-04,14264,9.905555555555555
+Great Western,Picture,1842,28 April – 11 May,GW,New York,Liverpool,"3,248 nautical miles (6,015 km)","12 d, 7 h, 30 m",10.99 knots (20.35 km/h),Eastbound,10.99,28,April,1842,1842-04-28,17730,12.3125
+Columbia,Picture,1843,4–14 April,Cunard,Halifax,Liverpool,"2,534 nautical miles (4,693 km)","9 d, 12 h, 0 m",11.11 knots (20.58 km/h),Eastbound,11.11,4,April,1843,1843-04-04,13680,9.5
+Hibernia,Picture,1843,18–27 May,Cunard,Halifax,Liverpool,"2,534 nautical miles (4,693 km)","9 d, 10 h, 44 m",11.18 knots (20.71 km/h),Eastbound,11.18,18,May,1843,1843-05-18,13604,9.447222222222223
+Hibernia,Picture,1843,18–27 July,Cunard,Halifax,Liverpool,"2,534 nautical miles (4,693 km)","8 d, 22 h, 44 m",11.80 knots (21.85 km/h),Eastbound,11.8,18,July,1843,1843-07-18,12884,8.947222222222223
+Canada,Picture,1849,19–28 July,Cunard,Halifax,Liverpool,"2,534 nautical miles (4,693 km)","8 d, 12 h, 44 m",12.38 knots (22.93 km/h),Eastbound,12.38,19,July,1849,1849-07-19,12284,8.530555555555555
+Pacific,,1851,10–20 May,Collins,New York,Liverpool,"3,078 nautical miles (5,700 km)","9 d, 20 h, 14 m",13.03 knots (24.13 km/h),Eastbound,13.03,10,May,1851,1851-05-10,14174,9.843055555555555
+Arctic,,1852,7–17 February,Collins,New York,Liverpool,"3,051 nautical miles (5,650 km)","9 d, 17 h, 15 m",13.06 knots (24.19 km/h),Eastbound,13.06,7,February,1852,1852-02-07,13995,9.71875
+Persia,Picture,1856,2–12 April,Cunard,Sandy Hook,Liverpool,"3,048 nautical miles (5,645 km)","9 d, 10 h, 22 m",13.46 knots (24.93 km/h),Eastbound,13.46,2,April,1856,1856-04-02,13582,9.431944444444444
+Persia,Picture,1856,14–23 May,Cunard,Sandy Hook,Liverpool,"3,048 nautical miles (5,645 km)","9 d, 3 h, 24 m",13.89 knots (25.72 km/h),Eastbound,13.89,14,May,1856,1856-05-14,13164,9.141666666666667
+Persia,Picture,1856,6–15 August,Cunard,Sandy Hook,Liverpool,"3,046 nautical miles (5,641 km)","8 d, 23 h, 19 m",14.15 knots (26.21 km/h),Eastbound,14.15,6,August,1856,1856-08-06,12919,8.971527777777778
+Scotia,Picture,1863,16–24 December,Cunard,New York,Queenstown,"2,800 nautical miles (5,200 km)","8 d, 5 h, 42 m",14.16 knots (26.22 km/h),Eastbound,14.16,16,December,1863,1863-12-16,11862,8.2375
+City of Brussels,Picture,1869,4–12 December,Inman,Sandy Hook,Queenstown,"2,780 nautical miles (5,150 km)","7 d, 20 h, 33 m",14.74 knots (27.30 km/h),Eastbound,14.74,4,December,1869,1869-12-04,11313,7.85625
+Baltic,Picture,1873,11–19 January,W.Star,Sandy Hook,Queenstown,"2,840 nautical miles (5,260 km)","7 d, 20 h, 9 m",15.09 knots (27.95 km/h),Eastbound,15.09,11,January,1873,1873-01-11,11289,7.839583333333334
+City of Berlin,Picture,1875,2–10 October,Inman,Sandy Hook,Queenstown,"2,820 nautical miles (5,220 km)","7 d, 15 h, 28 m",15.37 knots (28.47 km/h),Eastbound,15.37,2,October,1875,1875-10-02,11008,7.644444444444445
+Germanic,Picture,1876,5–13 February,W.Star,Sandy Hook,Queenstown,"2,894 nautical miles (5,360 km)","7 d, 15 h, 17 m",15.79 knots (29.24 km/h),Eastbound,15.79,5,February,1876,1876-02-05,10997,7.636805555555555
+Britannic,Picture,1876,16–24 December,W.Star,Sandy Hook,Queenstown,"2,892 nautical miles (5,356 km)","7 d, 12 h, 41 m",15.94 knots (29.52 km/h),Eastbound,15.94,16,December,1876,1876-12-16,10841,7.528472222222222
+Arizona,Picture,1879,22–29 July,Guion,Sandy Hook,Queenstown,"2,810 nautical miles (5,200 km)","7 d, 8 h, 11 m",15.96 knots (29.56 km/h),Eastbound,15.96,22,July,1879,1879-07-22,10571,7.340972222222222
+Alaska,Picture,1882,30 May – 6 June,Guion,Sandy Hook,Queenstown,"2,791 nautical miles (5,169 km)","6 d, 22 h, 0 m",16.81 knots (31.13 km/h),Eastbound,16.81,30,May,1882,1882-05-30,9960,6.916666666666667
+Alaska,Picture,1882,12–19 September,Guion,Sandy Hook,Queenstown,"2,781 nautical miles (5,150 km)","6 d, 18 h, 37 m",17.10 knots (31.67 km/h),Eastbound,17.1,12,September,1882,1882-09-12,9757,6.7756944444444445
+Oregon,Picture,1884,29 March – 5 April,Guion,Sandy Hook,Queenstown,"2,916 nautical miles (5,400 km)","7 d, 2 h, 18 m",17.12 knots (31.71 km/h),Eastbound,17.12,29,March,1884,1884-03-29,10218,7.095833333333333
+Oregon,Picture,1884,26 April – 3 May,Guion,Sandy Hook,Queenstown,"2,916 nautical miles (5,400 km)","6 d, 16 h, 57 m",18.09 knots (33.50 km/h),Eastbound,18.09,26,April,1884,1884-04-26,9657,6.70625
+Oregon,Picture,1884,30 July – 6 August,Cunard,Sandy Hook,Queenstown,"2,853 nautical miles (5,284 km)","6 d, 12 h, 54 m",18.18 knots (33.67 km/h),Eastbound,18.18,30,July,1884,1884-07-30,9414,6.5375
+Oregon,Picture,1884,3–10 September,Cunard,Sandy Hook,Queenstown,"2,853 nautical miles (5,284 km)","6 d, 11 h, 9 m",18.39 knots (34.06 km/h),Eastbound,18.39,3,September,1884,1884-09-03,9309,6.464583333333334
+Etruria,Picture,1885,1–7 August,Cunard,Sandy Hook,Queenstown,"2,822 nautical miles (5,226 km)","6 d, 9 h, 0 m",18.44 knots (34.15 km/h),Eastbound,18.44,1,August,1885,1885-08-01,9180,6.375
+Etruria,Picture,1888,7–14 July,Cunard,Sandy Hook,Queenstown,"2,981 nautical miles (5,521 km)","6 d, 4 h, 50 m",19.36 knots (35.85 km/h),Eastbound,19.36,7,July,1888,1888-07-07,8930,6.201388888888889
+City of Paris,Picture,1889,15–22 May,Inman,Sandy Hook,Queenstown,"2,894 nautical miles (5,360 km)","6 d, 0 h, 29 m",20.03 knots (37.10 km/h),Eastbound,20.03,15,May,1889,1889-05-15,8669,6.020138888888889
+City of New York,Picture,1892,17–23 August,Inman,Sandy Hook,Queenstown,"2,814 nautical miles (5,212 km)","5 d, 19 h, 57 m",20.11 knots (37.24 km/h),Eastbound,20.11,17,August,1892,1892-08-17,8397,5.83125
+Campania,Picture,1893,6–12 May,Cunard,Sandy Hook,Queenstown,"2,928 nautical miles (5,423 km)","5 d, 17 h, 27 m",21.30 knots (39.45 km/h),Eastbound,21.3,6,May,1893,1893-05-06,8247,5.727083333333334
+Lucania,Picture,1894,6–12 May,Cunard,Sandy Hook,Queenstown,"2,911 nautical miles (5,391 km)","5 d, 13 h, 28 m",21.81 knots (40.39 km/h),Eastbound,21.81,6,May,1894,1894-05-06,8008,5.561111111111111
+Lucania,Picture,1894,2–8 June,Cunard,Sandy Hook,Queenstown,"2,911 nautical miles (5,391 km)","5 d, 12 h, 59 m",21.90 knots (40.56 km/h),Eastbound,21.9,2,June,1894,1894-06-02,7979,5.540972222222222
+Lucania,Picture,1895,18–24 May,Cunard,Sandy Hook,Queenstown,"2,897 nautical miles (5,365 km)","5 d, 11 h, 40 m",22.00 knots (40.74 km/h),Eastbound,22.0,18,May,1895,1895-05-18,7900,5.486111111111111
+Kaiser Wilhelm der Grosse,,1897,23–29 November,NDL,Sandy Hook,Needles,"3,065 nautical miles (5,676 km)","5 d, 17 h, 23 m",22.33 knots (41.36 km/h),Eastbound,22.33,23,November,1897,1897-11-23,8243,5.7243055555555555
+Deutschland,,1900,18–24 July,Hapag,Sandy Hook,Eddystone,"3,085 nautical miles (5,713 km)","5 d, 15 h, 5 m",22.84 knots (42.30 km/h),Eastbound,22.84,18,July,1900,1900-07-18,8105,5.628472222222222
+Deutschland,,1900,4–10 September,Hapag,Sandy Hook,Eddystone,"2,981 nautical miles (5,521 km)","5 d, 7 h, 38 m",23.36 knots (43.26 km/h),Eastbound,23.36,4,September,1900,1900-09-04,7658,5.3180555555555555
+Deutschland,,1901,13–19 June,Hapag,Sandy Hook,Eddystone,"3,083 nautical miles (5,710 km)","5 d, 11 h, 51 m",23.38 knots (43.30 km/h),Eastbound,23.38,13,June,1901,1901-06-13,7911,5.49375
+Deutschland,,1901,10–17 July,Hapag,Sandy Hook,Eddystone,"3,082 nautical miles (5,708 km)","5 d, 11 h, 5 m",23.51 knots (43.54 km/h),Eastbound,23.51,10,July,1901,1901-07-10,7865,5.461805555555555
+Kaiser Wilhelm II,,1904,14–20 June,NDL,Sandy Hook,Eddystone,"3,112 nautical miles (5,763 km)","5 d, 11 h, 58 m",23.58 knots (43.67 km/h),Eastbound,23.58,14,June,1904,1904-06-14,7918,5.498611111111111
+Lusitania,Picture,1907,19–24 October,Cunard,Sandy Hook,Queenstown,"2,807 nautical miles (5,199 km)","4 d, 22 h, 53 m",23.61 knots (43.73 km/h),Eastbound,23.61,19,October,1907,1907-10-19,7133,4.9534722222222225
+Mauretania,Picture,1907,30 November–5 December,Cunard,Beady Hook,Queenstown,"2,807 nautical miles (5,199 km)","4 d, 22 h, 33 m",23.69 knots (43.87 km/h),Eastbound,23.69,30,November,1907,1907-11-30,7113,4.939583333333333
+Mauretania,Picture,1908,25–30 January,Cunard,Sandy Hook,Queenstown,"2,932 nautical miles (5,430 km)","5 d, 2 h, 41 m",23.90 knots (44.26 km/h),Eastbound,23.9,25,January,1908,1908-01-25,7361,5.111805555555556
+Mauretania,Picture,1908,7–12 March,Cunard,Sandy Hook,Queenstown,"2,932 nautical miles (5,430 km)","5 d, 0 h, 5 m",24.42 knots (45.23 km/h),Eastbound,24.42,7,March,1908,1908-03-07,7205,5.003472222222222
+Mauretania,Picture,1909,3–8 February,Cunard,Ambrose,"Queenstown,","2,930 nautical miles (5,430 km)","4 d, 20 h, 27 m",25.16 knots (46.60 km/h),Eastbound,25.16,3,February,1909,1909-02-03,6987,4.852083333333334
+Mauretania,Picture,1909,17–22 March,Cunard,Ambrose,Queenstown,"2,934 nautical miles (5,434 km)","4 d, 18 h, 35 m",25.61 knots (47.43 km/h),Eastbound,25.61,17,March,1909,1909-03-17,6875,4.774305555555555
+Mauretania,Picture,1909,5–10 May,Cunard,Ambrose,Queenstown,"2,934 nautical miles (5,434 km)","4 d, 18 h, 11 m",25.70 knots (47.60 km/h),Eastbound,25.7,5,May,1909,1909-05-05,6851,4.757638888888889
+Mauretania,Picture,1909,16–21 June,Cunard,Ambrose,Queenstown,"2,933 nautical miles (5,432 km)","4 d, 17 h, 21 m",25.88 knots (47.93 km/h),Eastbound,25.88,16,June,1909,1909-06-16,6801,4.722916666666666
+Mauretania,Picture,1924,20–25 August,Cunard,Ambrose,Cherbourg,"3,198 nautical miles (5,923 km)","5 d, 1 h, 49 m",26.25 knots (48.62 km/h),Eastbound,26.25,20,August,1924,1924-08-20,7309,5.075694444444444
+Bremen,,1929,27 July – 1 August,NDL,Ambrose,Eddystone,"3,084 nautical miles (5,712 km)","4 d, 14 h, 30 m",27.91 knots (51.69 km/h),Eastbound,27.91,27,July,1929,1929-07-27,6630,4.604166666666667
+Bremen,,1933,10–15 June,NDL,Ambrose,Cherbourg,"3,199 nautical miles (5,925 km)","4 d, 16 h, 15 m",28.51 knots (52.80 km/h),Eastbound,28.51,10,June,1933,1933-06-10,6735,4.677083333333333
+Normandie,Picture,1935,7–11 June,CGT,Ambrose,Bishop Rock,"3,015 nautical miles (5,584 km)","4 d, 3 h, 25 m",30.31 knots (56.13 km/h),Eastbound,30.31,7,June,1935,1935-06-07,5965,4.142361111111111
+Queen Mary,Picture,1936,26–30 August,C-WS,Ambrose,Bishop Rock,"2,939 nautical miles (5,443 km)","3 d, 23 h, 57 m",30.63 knots (56.73 km/h),Eastbound,30.63,26,August,1936,1936-08-26,5757,3.997916666666667
+Normandie,Picture,1937,18–22 March,CGT,Ambrose,Bishop Rock,"2,967 nautical miles (5,495 km)","4 d, 0 h, 6 m",30.99 knots (57.39 km/h),Eastbound,30.99,18,March,1937,1937-03-18,5766,4.004166666666666
+Normandie,Picture,1937,4–8 August,CGT,Ambrose,Bishop Rock,"2,936 nautical miles (5,437 km)","3 d, 22 h, 7 m",31.20 knots (57.78 km/h),Eastbound,31.2,4,August,1937,1937-08-04,5647,3.921527777777778
+Queen Mary,Picture,1938,10–14 August,C-WS,Ambrose,Bishop Rock,"2,938 nautical miles (5,441 km)","3 d, 20 h, 42 m",31.69 knots (58.69 km/h),Eastbound,31.69,10,August,1938,1938-08-10,5562,3.8625
+United States,Picture,1952,3–7 July,USL,Ambrose,Bishop Rock,"2,942 nautical miles (5,449 km)","3 d, 10 h, 40 m",35.59 knots (65.91 km/h),Eastbound,35.59,3,July,1952,1952-07-03,4960,3.4444444444444446

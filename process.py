@@ -26,10 +26,13 @@ df['Days'] = df['Minutes'] / (24 * 60)
 df_pivot = df.pivot(index=['Start date','Ship'], columns='Direction', values='Knots')
 
 # %% Save the processed data to a new csv file
-df_pivot.to_csv("Atlantic crossings_processed.csv")
+df.to_csv("Atlantic-crossings_processed.csv", index=False)
+
+# %% Save the processed data to a new csv file
+df_pivot.to_csv("Atlantic-crossings_processed_knots.csv")
 
 # %% Pivot the data to have the directions as columns and the dates as rows
 df_pivot2 = df.pivot(index=['Start date','Ship'], columns='Direction', values='Days')
-df_pivot2.to_csv("Atlantic crossings_processed_days.csv")
+df_pivot2.to_csv("Atlantic-crossings_processed_days.csv")
 
 # %%
