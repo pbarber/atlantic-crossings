@@ -1,6 +1,41 @@
 # %%
 import pandas
-df = pandas.read_csv("Atlantic crossings.csv")
+
+def table_to_df(table):
+    headers = []
+    for th in table.find_all('th'):
+        headers.append(th.text.strip())
+
+    rows = []
+    for tr in table.find_all('tr')[1:]:  # Skip header row
+        row = []
+        for td in tr.find_all(['td', 'th']):
+            row.append(td.text.strip())
+        if row:  # Only append non-empty rows
+            rows.append(row)
+
+    return pandas.DataFrame(rows, columns=headers)
+# %%
+import requests
+from bs4 import BeautifulSoup
+session = requests.Session()
+session.headers.update({'User-Agent': 'Custom user agent'})
+resp = session.get('https://en.wikipedia.org/wiki/Blue_Riband')
+resp.raise_for_status()
+bs4 = BeautifulSoup(resp.text, 'html.parser')
+
+# %%
+tabs = bs4.find_all('table', class_='wikitable')
+
+# Convert the first table to a pandas dataframe
+westbound = table_to_df(tabs[0])
+westbound['Direction'] = 'Westbound'
+eastbound = table_to_df(tabs[1])
+eastbound['Direction'] = 'Eastbound'
+
+df = pandas.concat([westbound, eastbound])
+
+df.drop(columns=['Flag'], inplace=True)
 
 # %%
 df.head()
@@ -22,13 +57,11 @@ df['Ship'] = df['Ship'].str.extract(r'([A-Za-z\s]+)')
 df['Minutes'] = (df['Days, hours, minutes'].str.extract(r'(\d+) d').fillna(0).astype(int) * 24 * 60) + (df['Days, hours, minutes'].str.extract(r'(\d+) h').fillna(0).astype(int) * 60) + (df['Days, hours, minutes'].str.extract(r'(\d+) m').fillna(0).astype(int))
 df['Days'] = df['Minutes'] / (24 * 60)
 
-# %% Pivot the data to have the directions as columns and the dates as rows
-df_pivot = df.pivot(index=['Start date','Ship'], columns='Direction', values='Knots')
-
 # %% Save the processed data to a new csv file
 df.to_csv("Atlantic-crossings_processed.csv", index=False)
 
-# %% Save the processed data to a new csv file
+# %% Pivot the data to have the directions as columns and the dates as rows
+df_pivot = df.pivot(index=['Start date','Ship'], columns='Direction', values='Knots')
 df_pivot.to_csv("Atlantic-crossings_processed_knots.csv")
 
 # %% Pivot the data to have the directions as columns and the dates as rows
